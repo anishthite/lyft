@@ -7,6 +7,10 @@
 * Make histogram to see how the number of rides varies per driver, along with duration of drives, and distance of drives. These should be normally distributed. Prime Time should also be looked at, that is interesting to lo0ok at as well. 
 * Finish the value function definition of what ideal driver would be
 
+#Thoughts that occured to me when trying to sleep
+* We can use k-means clustering or gmm to visualize the different drivers
+* We would need to look at each driver and average stats for each ride for them, or we could just plot rides at first
+* It might be complicatd since we leave out the number of riddes a driver does, which would make them more valuable 
 
 # Questions to Answer
 
