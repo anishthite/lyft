@@ -23,3 +23,9 @@ d. What actionable recommendations are there for the business?
 * Hire us
 3. Prepare and submit a writeup of your findings for consumption by a cross-functional
 audience.
+
+# Mohan's additions
+* so i pushed the changes I made and made my own notebook so we can work stuff at the same time
+* on the ride_id dataframe I added cost of the ride as another column
+* I also added the response time and time taken from asking for a driver to pick up (not as useful i think), all the times are in SECONDS btw
+* this is all in dataframe called merge!!!
